@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1060816632867-2ce8gt9tkn42abm9eo7d94hlbl8r9bbc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1060816632867</string>
+    <string name="google_api_key" translatable="false">AIzaSyApzwNGyTtKmKVrYHI62VXtNY_Z4HPNGeY</string>
+    <string name="google_app_id" translatable="false">1:1060816632867:android:e82217b1d8dba4a11b8596</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyApzwNGyTtKmKVrYHI62VXtNY_Z4HPNGeY</string>
+    <string name="google_storage_bucket" translatable="false">fiducia-bd3df.appspot.com</string>
+    <string name="project_id" translatable="false">fiducia-bd3df</string>
+</resources>

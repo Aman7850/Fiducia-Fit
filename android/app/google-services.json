@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1060816632867",
+    "project_id": "fiducia-bd3df",
+    "storage_bucket": "fiducia-bd3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060816632867:android:e82217b1d8dba4a11b8596",
+        "android_client_info": {
+          "package_name": "com.fiducia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060816632867-vbbv63m8d7b06vt8s54i7tcp21b45686.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fiducia",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1060816632867-2ce8gt9tkn42abm9eo7d94hlbl8r9bbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApzwNGyTtKmKVrYHI62VXtNY_Z4HPNGeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060816632867-2ce8gt9tkn42abm9eo7d94hlbl8r9bbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
